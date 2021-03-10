@@ -8,7 +8,7 @@ Java homework projects:
 
 **calculate_TriangleAcreage** -- takes input for length (in feet) of two sides of a triangular plot, outputs the hypotenuse and total acreage of the plot.
 
-**calculate_Utility** -- takes input for current and previous utility meter readings to calculate Power Bill including 3 separate usage rates, subtotal, and tax.
+**calculate_Utility** -- takes input for current and previous utility meter readings to calculate Power Bill including three separate usage rates, subtotal, and tax.
 
 **manipulate_String** -- takes string input and coverts to upper, converts to lower, calculates length, generates substring, generates random substring.
 
